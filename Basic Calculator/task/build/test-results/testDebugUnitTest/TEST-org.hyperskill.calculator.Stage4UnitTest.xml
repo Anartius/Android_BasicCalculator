@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.Stage4UnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-08T13:59:40" hostname="DESKTOP-4RO72QM" time="17.856">
+  <properties/>
+  <testcase name="testShouldCheckCalculatorSetsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="15.714"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheIntAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="1.178"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheDoubleAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.964"/>
+  <system-out><![CDATA[Downloading from maven 
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorSetsHint: sdk=28; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheIntAnswer: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheDoubleAnswer: sdk=28; resources=BINARY
+]]></system-out>
+  <system-err><![CDATA[[Robolectric] WARN: Android SDK 29 requires Java 9 (have Java 8). Tests won't be run on SDK 29 unless explicitly requested.
+]]></system-err>
+</testsuite>

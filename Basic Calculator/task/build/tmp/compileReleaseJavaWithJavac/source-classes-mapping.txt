@@ -1,0 +1,2 @@
+org/hyperskill/calculator/BuildConfig.java
+ org.hyperskill.calculator.BuildConfig
